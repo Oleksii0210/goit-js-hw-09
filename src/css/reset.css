@@ -14,8 +14,8 @@ p:last-child {
 }
 
 ul {
-  margin: 0;
-  padding: 0;
+  margin: 10px;
+  padding: 30px;
   list-style: none;
 }
 
